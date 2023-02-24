@@ -6,7 +6,7 @@ http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/2017068530?prof
 #EXTINF:-1 tvg-id="34bb28f5b39083bfd6fee7ad9e257be4",ARAGON TV INT
 http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1965603636?profile=pass
 #EXTINF:-1 tvg-id="081d6e76ab5342567491d893a2e1bd3a",atreseries HD
-http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1986927880?profile=matroska
+http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1986927880?profile=pass
 #EXTINF:-1 tvg-id="63efce780bc793926481b9c0d41c5a3e",atreseries HD
 http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/2026827619?profile=pass
 #EXTINF:-1 tvg-id="457b13f280df97a2a88468d89be3af2f",BABY TV FULL HD
@@ -60,9 +60,9 @@ http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1918388981?prof
 #EXTINF:-1 tvg-id="08e4e7f8ebcadc2cfdef8e2a57639b49",M+ SERIES FULL HD
 http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/2028463112?profile=pass
 #EXTINF:-1 tvg-id="6f748d73aa3dad258ec2cb69875458f4",mega
-http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1938650223?profile=pass
+http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1938650223?profile=htsp
 #EXTINF:-1 tvg-id="5558dc7ccc89dfc3872d3fd86933ac05",MOVISTAR+ MARVEL 1
-http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/2094815317?profile=matroska
+http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/2094815317?profile=pass
 #EXTINF:-1 tvg-id="529cf17249d766bf78a458465d6694cc",MTV ESPANA
 http://seve:Seesmada5&@nasseve.duckdns.org:9981/stream/channelid/1928436818?profile=pass
 #EXTINF:-1 tvg-id="35b17572dfdcca291395e561d43e6a93",New Alquiler 4K 5
